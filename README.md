@@ -23,13 +23,19 @@
 ## 📸 Screenshots
 
  Login
+
+ 
  ![Screenshot 2025-06-22 101515](https://github.com/user-attachments/assets/b18ce641-e267-48fe-9521-effa3c5eeabd)
 
  
  Dashboard  
+
+ 
  ![Screenshot 2025-06-22 101607](https://github.com/user-attachments/assets/c7ba7d30-2081-4ec2-bdb6-d907aa3d8cb4)
 
 Post Task
+
+
 ![Screenshot 2025-06-22 101708](https://github.com/user-attachments/assets/b373bd3a-e20a-4993-9655-60efcd64537a)
 
 
